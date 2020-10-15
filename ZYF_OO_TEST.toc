@@ -1,0 +1,17 @@
+## Interface: 90001
+## LoadOnDemand: 0
+## Title: ZYF's OO TEST
+## Notes: ZYF's OO TEST
+## DefaultState: Enabled
+## Author: ¥¨Às¤§³ï - ¦º°« 
+## X-Category: TEST
+## X-Date: 08-01-2018
+## SavedVariables: ZYF_OOTEST
+## Version: 0.01
+
+##Utility
+SpellUtil.lua
+##Setting
+config.lua
+##Main
+main.lua
